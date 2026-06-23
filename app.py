@@ -20,7 +20,7 @@ def predict():
     rate_persqft = float(request.form['rate'])
     area_insqft = float(request.form['area'])
     title = request.form['title']
-    location = request.form['location'].strip().title()
+    location = request.form['location']
     building_status = request.form['building_status']
 
     data = pd.DataFrame({
