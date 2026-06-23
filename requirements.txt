@@ -6,3 +6,5 @@ jupyter
 ipykernel
 scikit-learn
 xgboost
+joblib
+flask
