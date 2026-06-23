@@ -27,6 +27,7 @@ The workflow covers data collection, preprocessing, exploratory data analysis (E
 The final objective is to accurately estimate property prices and identify the key factors that influence housing costs in Hyderabad.
 
 The trained machine learning model was integrated with a Flask web application and an HTML-based user interface, allowing users to input property details and receive real-time house price predictions through a deployed web application.
+
 ---
 
 ## 🎯 Business Problem
