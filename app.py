@@ -4,7 +4,7 @@ import joblib
 
 app = Flask(__name__)
 
-model = joblib.load('Models/DecisionTree_Regressor_HousePricePrediction.pkl')
+model = joblib.load('Models/DecisionTree_Regressor_HousePriceprediction.pkl')
 
 model_columns = joblib.load('Models/model_columns.pkl')
 
